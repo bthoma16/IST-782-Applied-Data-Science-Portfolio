@@ -7,7 +7,7 @@ Employing machine learning techniques to forecast student academic performance t
 ## Required Tools and Technology
 R and RStudio
 
-## Table of Content
+## Table of Contents
 1. README.md
    - Overview document detailing folder purpose and content
 3. Blessy_Thomas_Project_Code.pdf
