@@ -7,7 +7,7 @@ Designing and implementing a relational database for a conceptual grocery store 
 ## Required Tools and Technology
 SQL, Azure Data Studio, Microsoft SQL Server
 
-## Table of Content
+## Table of Contents
 1. README.md
    - Overview document detailing folder purpose and content
 3. Blessy_Thomas_Project_CSV_Files
