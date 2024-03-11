@@ -22,3 +22,4 @@ Embarking on the Master of Science in Applied Data Science program at Syracuse U
 My portfolio demonstrates my proficiency in data collection and analysis, generating actionable insights, applying visualization and predictive models, and effectively communicating findings to a wide audience, all while maintaining ethical standards in data use and model evaluation. As I anticipate my graduation in Spring 2024, I am eager to apply and share the insights and skills gained from my studies in applied data science.
 
 ## Table of Contents
+1. README.md
