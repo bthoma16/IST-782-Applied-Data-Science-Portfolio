@@ -13,7 +13,7 @@ R and RStudio
 3. Blessy_Thomas_Project_Code.pdf
    - The project's code that was written in R Studio was exported as a PDF file
 5. Blessy_Thomas_Project_Dataset.csv
-   - The Kaggle data set that was used for the project
+   - The Kaggle data set that was used in the project
 7. Blessy_Thomas_Project_Presentation.pdf
    - A summary of the project in slide deck format
 9. Blessy_Thomas_Project_Report.pdf
