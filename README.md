@@ -27,7 +27,17 @@ My portfolio demonstrates my proficiency in data collection and analysis, genera
 3. Resume
    - My current professional resume
 5. Portfolio Milestone Paper
-   - Written paper that contains each learning goal of the program linked to the deliverables of the projects that the student created in the referenced courses that demonstrate achievement of that learning goal
+   - Written paper that contains each learning goal of the program linked to the deliverables of the projects that I created or helped to create in the referenced courses that demonstrate achievement of that learning goal
 7. Portfolio Milestone Presentation
-8. Portfolio Milestone Presentation Recording
-9. Referenced Course Projects
+   - A summary of the written paper in slide deck format
+9. Portfolio Milestone Presentation Recording
+    - A video file of me presenting my slide deck
+11. Referenced Course Projects
+    - IST 659: Data Administration Concepts & Management
+      - Inventory management database
+    - IST 707: Applied Machine Learning
+      - Student grade prediction
+    - IST 652: Scripting for Data Analysis
+      - Analyzing company attrition
+    - IST 664: Natural Language Processing
+      - Sentiment analysis on movie reviews
