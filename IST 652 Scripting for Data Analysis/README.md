@@ -17,4 +17,4 @@ Python, Jupyter Notebook, and Google Colaboratory
 7. Blessy_Thomas_HR_Attrition_Data_Dictionary.docx
    - A document defining the variables that are found in the data set
 9. HR_Analytics.csv
-    - The data set used in the project
+    - The Kaggle data set that was used in the project
