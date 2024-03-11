@@ -23,3 +23,10 @@ My portfolio demonstrates my proficiency in data collection and analysis, genera
 
 ## Table of Contents
 1. README.md
+   - Overview document detailing repository purpose and content
+3. Resume
+   - My professional resume
+5. Portfolio Milestone Paper
+6. Portfolio Milestone Presentation
+7. Portfolio Milestone Presentation Recording
+8. Referenced Course Projects
