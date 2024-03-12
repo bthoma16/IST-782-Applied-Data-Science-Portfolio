@@ -1,5 +1,5 @@
 # IST 664: Natural Language Processing
-Sentiment analysis on movie reviews
+Conducting sentiment analysis on movie reviews
 
 ## Project Description
 The Python language was used to participate in a classification task, develop features, and conduct several experiments to determine the most suitable features for the selected data set. For the classification task of this course, I conducted sentiment analysis on movie reviews and utilized a data set from Kaggle that was specifically designed for the Sentiment Analysis on Movie Reviews competition. The goal of the classification task was to accurately label each phrase's sentiment, with the main challenge being the selection of an appropriate subset for training.
