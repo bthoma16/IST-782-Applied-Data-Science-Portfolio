@@ -5,7 +5,7 @@ Whole-ER Foods Inventory Management Database
 Designing and implementing a relational database for a conceptual grocery store aiming to solve a real-world problem such as optimizing inventory management. Additionally, utilizing SQL to address issues related to inventory tracking and consumer demand fluctuations. 
 
 ## Required Tools and Technology
-SQL, Azure Data Studio, Microsoft SQL Server
+SQL, Azure Data Studio, and Microsoft SQL Server
 
 ## Table of Contents
 1. README.md
