@@ -1,5 +1,5 @@
 # IST 707: Applied Machine Learning
-Student grade prediction
+Conducting student grade prediction
 
 ## Project Description
 Employing machine learning techniques to forecast student academic performance to identify factors that contribute to student underperformance and to develop strategies for early identification and intervention for students at risk.
