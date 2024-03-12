@@ -15,7 +15,7 @@ SQL, Azure Data Studio, and Microsoft SQL Server
 5. Blessy_Thomas_Slide_Deck
    - A summary of the project in slide deck format
 7. Blessy_Thomas_Stored_Procedures
-   - Stored procedures that were created to develop the database and make it more efficient
+   - Stored procedures that were created to develop the database and to make it more efficient
 9. Blessy_Thomas_Team_Log/Document
     - A written log of each team member's contributions
 11. External Data
