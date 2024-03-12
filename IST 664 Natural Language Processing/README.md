@@ -17,7 +17,7 @@ Python
 7. cross_validation.py
    -  A Python file that contains functions for cross-validation to be performed in the classifyKaggle.py file
 
-## Misc.
+## Miscellaneous
 1. Blessy_Thomas_Final_Text_Classification_Project (File could not be uploaded due to its size, added a separate link)
    - A written report of the classification task and its analysis
      - https://docs.google.com/document/d/18Vge-BMsbyEIJ6ADPFNb_C7vljjQ65ig/edit?usp=share_link&ouid=113547437426328912401&rtpof=true&sd=true
