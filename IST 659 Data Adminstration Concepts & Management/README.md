@@ -1,5 +1,5 @@
 # IST 659: Data Administration Concepts & Management
-Whole-ER Foods Inventory Management Database
+Creating an inventory management database for a fictional grocery store named Whole-ER Foods
 
 ## Project Description
 Designing and implementing a relational database for a conceptual grocery store aiming to solve a real-world problem such as optimizing inventory management. Additionally, utilizing SQL to address issues related to inventory tracking and consumer demand fluctuations. 
