@@ -11,7 +11,7 @@ Python, Jupyter Notebook, and Google Colaboratory
 1. README.md
    - Overview document detailing folder purpose and content
 3. Blessy_Thomas_Final_Project_Proposal.docx
-   - A proposal of the project describing the data set, outlining the analysis plan, and listing the questions my team and I want to answer about the data
+   - A proposal of the project describing the data set, outlining the analysis plan, and listing the questions that my team and I want to answer about the data
 5. Blessy_Thomas_HR_Attrition_Analysis.ipynb
    - The analysis code file of the project that was written using Python
 7. Blessy_Thomas_HR_Attrition_Data_Dictionary.docx
