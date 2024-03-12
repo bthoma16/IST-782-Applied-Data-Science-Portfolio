@@ -21,7 +21,7 @@ R and RStudio
 11. Student Grade Predictions - V3.Rmd
     - The code of the project that was written in R Studio
 
-## Misc.
+## Miscellaneous
 1. IST707_final_presentation (File could not be uploaded due to its size, added a separate link)
    - A video file of my team and I presenting our slide deck
      - https://drive.google.com/file/d/1kEWdq8GtVo61v1LvMBeAcuUu7mPglkxp/view?usp=share_link
