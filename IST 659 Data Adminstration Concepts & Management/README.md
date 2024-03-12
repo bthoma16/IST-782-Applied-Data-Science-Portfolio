@@ -21,7 +21,7 @@ SQL, Azure Data Studio, and Microsoft SQL Server
 11. External Data
     - The external data model
 
-## Misc.
+## Miscellaneous
 1. Blessy_Thomas_Presentation_Recording (File could not be uploaded due to its size, added a separate link)
    - A video file of my team and I presenting our slide deck
      - https://drive.google.com/file/d/15zPMN3PyU9dpfW99BolrYaApIUkN5Ooe/view?usp=share_link
