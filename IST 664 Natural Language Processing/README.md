@@ -2,7 +2,7 @@
 Conducting sentiment analysis on movie reviews
 
 ## Project Description
-The Python language was used to participate in a classification task, develop features, and conduct several experiments to determine the most suitable features for the selected data set. For the classification task of this course, I conducted sentiment analysis on movie reviews and utilized a data set from Kaggle that was specifically designed for the Sentiment Analysis on Movie Reviews competition. The goal of the classification task was to accurately label each phrase's sentiment, with the main challenge being the selection of an appropriate subset for training.
+Developed a sophisticated text classification model to discern sentiments in movie reviews, leveraging Python and Sci-Kit Learn. Managed a dataset of 156,060 phrases from a Kaggle competition, employing advanced preprocessing and feature selection methods such as bag of words and bigrams. Extensive testing across various classifiers, including Naïve Bayes and logistic regression, led to a notable enhancement in classification accuracy by optimizing feature sets. Results highlighted the critical role of preprocessing in boosting model accuracy. Notably, Logistic Regression and Linear SVC with the SL + LIWC feature set achieved the highest performance, reaching 59% accuracy, surpassing the unigram baseline of 55%. 
 
 ## Required Tools and Technology
 Python
