@@ -2,7 +2,7 @@
 Analyzing company attrition
 
 ## Project Description
-Using a human resources analytics data set from Kaggle to unearth valuable insights from the dynamics of human resources and the overarching organizational culture to analyze company attrition. Python skills were applied in a real-world scenario to ultimately understand the factors influencing employee turnover. The goal was to pave the way toward actionable strategies aimed at curtailing employee turnover.
+Led a comprehensive analysis on employee attrition using a Kaggle HR analytics dataset. Utilized Python in Jupyter Notebook and Google Colab for data cleaning and preprocessing, tackling duplicates and missing values. Conducted exploratory data analysis to uncover key retention factors such as age, travel frequency, and performance. Employed pandas, matplotlib.pyplot, and numpy for data manipulation and visualization. Findings highlighted higher attrition among younger employees and frequent travelers, while top performers showed strong retention. Developed a predictive model with 82.65% accuracy to identify at-risk employees, resulting in actionable recommendations to reduce turnover, focusing on support for younger staff and travel policy adjustments.
 
 ## Required Tools and Technology
 Python, Jupyter Notebook, and Google Colaboratory
