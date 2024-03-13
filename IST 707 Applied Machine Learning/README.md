@@ -2,7 +2,7 @@
 Conducting student grade prediction
 
 ## Project Description
-Employing machine learning techniques to forecast student academic performance to identify factors that contribute to student underperformance and to develop strategies for early identification and intervention for students at risk.
+Forecasted academic risks among high school students using data mining. Processed a Kaggle dataset with 395 records and developed predictive models including decision trees, logistic regression, k-NN, SVM, and random forests. The final random forest model yielded a 99.28% accuracy rate in pinpointing at-risk students, offering valuable data for preemptive educational support. Key factors impacting final grades were identified: failures, freetime, fedu, dalc, walc, schoolsup, absences, age, famrel, and famsize.
 
 ## Required Tools and Technology
 R and RStudio
