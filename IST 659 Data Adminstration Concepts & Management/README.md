@@ -2,7 +2,7 @@
 Creating an inventory management database for a fictional grocery store named Whole-ER Foods
 
 ## Project Description
-Designing and implementing a relational database for a conceptual grocery store aiming to solve a real-world problem such as optimizing inventory management. Additionally, utilizing SQL to address issues related to inventory tracking and consumer demand fluctuations. 
+Developed and led the transition of Whole-ER Foods' inventory management from Microsoft Excel to a comprehensive database system utilizing Azure Data Studio and Microsoft SQL Server. This project significantly improved inventory tracking, product identification, and operational efficiency by introducing a robust relational database. The initiative streamlined inventory processes and provided hands-on experience in database design, development, and data analysis, showcasing the application of theoretical knowledge to real-world challenges. 
 
 ## Required Tools and Technology
 SQL, Azure Data Studio, and Microsoft SQL Server
